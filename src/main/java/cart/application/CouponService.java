@@ -2,6 +2,7 @@ package cart.application;
 
 import cart.dao.CouponDao;
 import cart.domain.*;
+import cart.domain.general.Money;
 import cart.dto.CouponResponse;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;

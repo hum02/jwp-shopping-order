@@ -2,7 +2,7 @@ package cart.application;
 
 import cart.dao.MemberDao;
 import cart.domain.Member;
-import cart.domain.Money;
+import cart.domain.general.Money;
 import cart.domain.Order;
 import org.springframework.stereotype.Service;
 

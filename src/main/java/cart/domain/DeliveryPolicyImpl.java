@@ -1,5 +1,6 @@
 package cart.domain;
 
+import cart.domain.general.Money;
 import org.springframework.stereotype.Component;
 
 @Component

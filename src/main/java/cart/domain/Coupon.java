@@ -1,5 +1,7 @@
 package cart.domain;
 
+import cart.domain.general.Money;
+
 public abstract class Coupon {
     public abstract Money apply(Money price);
 

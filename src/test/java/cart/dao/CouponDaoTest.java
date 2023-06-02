@@ -1,7 +1,7 @@
 package cart.dao;
 
 import cart.domain.Coupon;
-import cart.domain.Money;
+import cart.domain.general.Money;
 import cart.exception.CouponNotFoundException;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;

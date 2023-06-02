@@ -1,5 +1,6 @@
 package cart.domain;
 
+import cart.domain.general.Money;
 import cart.exception.CannotApplyCouponException;
 
 public class FixedDiscountCoupon extends Coupon {

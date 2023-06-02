@@ -1,4 +1,4 @@
-package cart.exception;
+package cart.ui;
 
 public class ErrorResponse {
     private final String message;
